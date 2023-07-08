@@ -21,7 +21,7 @@
     </p>
 </div>
 
-![Snake animation](jvarrudx)
+![Snake animation]jvarrudx
 
 
 
