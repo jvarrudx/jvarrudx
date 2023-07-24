@@ -7,7 +7,7 @@
 
   <div style="position: relative;">
   <img src="https://cdn.discordapp.com/avatars/1059270796712886385/a_7eb0b98f95d47054aa4fccdcf09cfc1f.gif?size=4096" alt="GIF animado" style="width: 225px; position: absolute; top: -100px;">
-</div>
+</div
 
 
 
