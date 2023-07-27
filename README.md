@@ -6,7 +6,7 @@
   ![JvArruda GitHub stats](https://github-readme-stats.vercel.app/api?username=jvarrudx&show_icons=true&theme=radical)
 
   <div style="position: relative;">
-  <img src="https://cdn.discordapp.com/attachments/1065442104798629979/1117061659324850256/4c6935b23f7353534bd92f00982c7398.gif" alt="GIF animado" style="width: 225px; position: absolute; top: -100px;">
+  <img src="https://cdn.discordapp.com/attachments/1072283039922667601/1129821974907068518/gifs-de-anime-lofi-9.gif" alt="GIF animado" style="width: 225px; position: absolute; top: -100px;">
 </div>
 
 
