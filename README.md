@@ -6,7 +6,7 @@
   ![JvArruda GitHub stats](https://github-readme-stats.vercel.app/api?username=jvarrudx&show_icons=true&theme=radical)
 
   <div style="position: relative;">
-  <img src="https://i.pinimg.com/originals/dc/57/dc/dc57dc17be914961151a24057f05a5fd.gif" alt="GIF animado" style="width: 225px; position: absolute; top: -100px;">
+  <img src="[https://i.pinimg.com/originals/dc/57/dc/dc57dc17be914961151a24057f05a5fd.gif" alt="GIF animado](https://i.pinimg.com/originals/83/17/7e/83177eace643e8d6b6e5e257bafb43d7.gif)" style="width: 225px; position: absolute; top: -100px;">
 </div>
 
 
