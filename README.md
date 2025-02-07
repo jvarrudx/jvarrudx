@@ -18,7 +18,7 @@
   <img align="center" alt="Jv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jv-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Jv-HTML" height="30" width="40" src="https://www.pngwing.com/pt/free-png-yjemi">
+  <img align="center" alt="Jv-HTML" height="30" width="40" src="https://www.google.com/imgres?q=icon%20java&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F405%2F878%2Fpng-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3D%25C3%25ADcone%2Bde%2Bjava&docid=xS1haaXuGR4ZtM&tbnid=WnsUvYo6_rE7TM&vet=12ahUKEwjcutfqlLKLAxUJBbkGHdWnBf8QM3oECHEQAA..i&w=360&h=360&hcb=2&ved=2ahUKEwjcutfqlLKLAxUJBbkGHdWnBf8QM3oECHEQAA">
   </div>
              
   ##    
